@@ -14,7 +14,7 @@
 - `data_new/` → 800 train + 150 dev noisy examples  
 - `dev_pred.json` → predictions on dev set  
 
-### Final Model + Predictions (62 MB zip) – Google Drive
+### Final Model + Predictions (~52 MB zip) – Google Drive
 Download here: https://drive.google.com/file/d/1PEmoUaxH06zYzO81Imcm6QlFBsSwn8Bp/view?usp=drive_link
 
 **How to use** (for evaluator):
